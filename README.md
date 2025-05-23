@@ -55,7 +55,7 @@ Abaixo estão algumas imagens que ilustram a interface e o funcionamento do sist
 
 ### 📌 Tela Inicial
 
-![Tela Inicial](Images/Tela Inicial.JPG)
+![Tela Inicial](Images/TelaInicial.jpg)
 
 A tela inicial apresenta uma visão geral do sistema, com acesso rápido às principais funcionalidades.
 

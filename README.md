@@ -49,23 +49,24 @@ Um professor chamado José de Assis irá explicar passo a passo como configurar 
 4. Adicione os arquivos JAR necessários para o iReport.
 5. Teste a geração de relatórios.
 
-## 🖼️ Imagens do Sistema
+## 📸 Demonstração das Telas do Projeto
 
-Abaixo estão algumas imagens que ilustram a interface e o funcionamento do sistema:
+Esta seção apresenta uma prévia das telas da aplicação, ideal para desenvolvedores e interessados em clonar o repositório e utilizá-lo como base de aprendizado.
 
-### 📌 Tela Inicial
+### 🔐 Tela de Login
+![Tela de Login](imagens/tela-login.png)
 
-![Tela Inicial](Images/TelaInicial.jpg)
+### 🏠 Tela Inicial
+![Tela Inicial](imagens/tela-inicial.jpg)
 
-A tela inicial apresenta uma visão geral do sistema, com acesso rápido às principais funcionalidades.
+### 👤 Tela de Cadastro de Cliente
+![Tela Cadastro Cliente](imagens/tela-cadastro-cliente.jpg)
 
-### 📌 Exemplo de Funcionalidade
+### 🧑‍💻 Tela de Cadastro de Usuário
+![Tela Cadastro Usuário](imagens/tela-cadastro-usuario.jpg)
 
-![Funcionalidade](images/funcionalidade-exemplo.png)
-
-Esta imagem mostra uma das funcionalidades em execução, destacando a usabilidade e o design intuitivo da aplicação.
-
-
+### 🛠️ Tela de Cadastro de Ordem de Serviço (OS)
+![Tela Cadastro OS](imagens/tela-cadastro-os.jpg)
 
 
 ## 📖 Licença
